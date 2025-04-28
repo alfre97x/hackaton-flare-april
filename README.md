@@ -1,3 +1,11 @@
+I met Flare team and knew about the solutions developed by Flare at ETH Oxford back in February 2025. I got a lot of interest in the network that I didn’t know about before and even if I didn’t build anything on Flare at that hackaton, I studied the technology and I wondered if it could be useful for my own project. //Spoiler: it was!//
+As my personal project **not directly hackaton-related** I developed a system for satellites to more securely and exchange data among them and with the ground with more trust than currently. Such system will be launched in orbit by 2026 and I have various MoU already present.
+However since I participated in the first webinar sessions of the hackaton, I fully understood that Flare could provide to my project an extra added value by creating with Flare a way to actually commercialize space data also on the ground (more is explained in the attached presentation: https://drive.google.com/file/d/1yT7lfIBMIgb-LRsZPIO6dgjjhjRmwhMd/view?usp=sharing ), by using FDC to actually as middleman between a potential client on the ground and a data source (currently Copernicus API working to select type of data and area of interest) , Flare blockchain for the payment of the data and VRF to simulate a random price value based on a simulated data demand. The satellite data (real not mocked ) from Copernicus is then passed to an AI assistant to analyze it.
+Building with Flare put me in the situation to do web development after long time and challenged myself to make something that one day could generate profit while also having an impact and mix AI , blockchain and space.
+You can find the contract here: https://coston2-explorer.flare.network/address/0x2330D0Cc23FD6764b7C67023C8fB85ae7287BFc9?tab=txs 
+
+
+
 # SpaceData Purchase Application
 
 A web application that allows users to purchase satellite data using blockchain technology, combining Copernicus satellite imagery with Flare Network blockchain verification.
